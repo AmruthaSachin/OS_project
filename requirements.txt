@@ -1,0 +1,4 @@
+To run the 'scheduler.sh' file download gnome-terminal
+
+Linux command:
+sudo apt install ubuntu-gnome-desktop
